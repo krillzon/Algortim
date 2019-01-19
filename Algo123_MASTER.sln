@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo123", "Algo123\Algo123.vcxproj", "{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Debug|x64.ActiveCfg = Debug|x64
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Debug|x64.Build.0 = Debug|x64
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Debug|x86.Build.0 = Debug|Win32
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Release|x64.ActiveCfg = Release|x64
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Release|x64.Build.0 = Release|x64
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Release|x86.ActiveCfg = Release|Win32
+		{AA22A64E-C3D9-4EEA-840D-B8A42F4A61A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4D6D08-F07F-40C2-8B6E-5A3DAFE9C4AC}
+	EndGlobalSection
+EndGlobal
